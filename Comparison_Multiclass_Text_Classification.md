@@ -83,7 +83,7 @@ df.tags.value_counts().plot(kind='bar')
 
 
 
-![png](output_6_1.png)
+![](figs/langs_tags_distribution.png)
 
 
 We can see that the classes are pretty well-balanced. 
